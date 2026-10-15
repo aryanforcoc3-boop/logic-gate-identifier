@@ -1,0 +1,713 @@
+sentence,label
+Output is high only when both inputs are high,AND
+"In this logic gate, output is high only when both inputs are high",AND
+"For the circuit, output is high only when both inputs are high",AND
+Remember: output is high only when both inputs are high,AND
+Output is high only when both inputs are high.,AND
+Output is high only when both inputs are high in binary.,AND
+Output is high only when both inputs are high for the output.,AND
+Output is high only when both inputs are high according to the truth table.,AND
+Output is 1 only if both A and B are 1,AND
+"In this logic gate, output is 1 only if both A and B are 1",AND
+"For the circuit, output is 1 only if both A and B are 1",AND
+Remember: output is 1 only if both A and B are 1,AND
+Output is 1 only if both A and B are 1.,AND
+Output is 1 only if both A and B are 1 in binary.,AND
+Output is 1 only if both A and B are 1 for the output.,AND
+Output is 1 only if both A and B are 1 according to the truth table.,AND
+Both inputs must be 1 to produce a 1,AND
+"In this logic gate, both inputs must be 1 to produce a 1",AND
+"For the circuit, both inputs must be 1 to produce a 1",AND
+Remember: both inputs must be 1 to produce a 1,AND
+Both inputs must be 1 to produce a 1.,AND
+Both inputs must be 1 to produce a 1 in binary.,AND
+Both inputs must be 1 to produce a 1 for the output.,AND
+Both inputs must be 1 to produce a 1 according to the truth table.,AND
+The output is low if either input is low,AND
+"In this logic gate, the output is low if either input is low",AND
+"For the circuit, the output is low if either input is low",AND
+Remember: the output is low if either input is low,AND
+The output is low if either input is low.,AND
+The output is low if either input is low in binary.,AND
+The output is low if either input is low for the output.,AND
+The output is low if either input is low according to the truth table.,AND
+A AND B gives a high output only for 11,AND
+"In this logic gate, a AND B gives a high output only for 11",AND
+"For the circuit, a AND B gives a high output only for 11",AND
+Remember: a AND B gives a high output only for 11,AND
+A AND B gives a high output only for 11.,AND
+A AND B gives a high output only for 11 in binary.,AND
+A AND B gives a high output only for 11 for the output.,AND
+A AND B gives a high output only for 11 according to the truth table.,AND
+The output is true when all inputs are true,AND
+"In this logic gate, the output is true when all inputs are true",AND
+"For the circuit, the output is true when all inputs are true",AND
+Remember: the output is true when all inputs are true,AND
+The output is true when all inputs are true.,AND
+The output is true when all inputs are true in binary.,AND
+The output is true when all inputs are true for the output.,AND
+The output is true when all inputs are true according to the truth table.,AND
+Only the combination 1 1 produces output 1,AND
+"In this logic gate, only the combination 1 1 produces output 1",AND
+"For the circuit, only the combination 1 1 produces output 1",AND
+Remember: only the combination 1 1 produces output 1,AND
+Only the combination 1 1 produces output 1.,AND
+Only the combination 1 1 produces output 1 in binary.,AND
+Only the combination 1 1 produces output 1 for the output.,AND
+Only the combination 1 1 produces output 1 according to the truth table.,AND
+The output becomes 1 when A and B are both high,AND
+"In this logic gate, the output becomes 1 when A and B are both high",AND
+"For the circuit, the output becomes 1 when A and B are both high",AND
+Remember: the output becomes 1 when A and B are both high,AND
+The output becomes 1 when A and B are both high.,AND
+The output becomes 1 when A and B are both high in binary.,AND
+The output becomes 1 when A and B are both high for the output.,AND
+The output becomes 1 when A and B are both high according to the truth table.,AND
+"If A is 0 or B is 0, output is 0",AND
+"In this logic gate, if A is 0 or B is 0, output is 0",AND
+"For the circuit, if A is 0 or B is 0, output is 0",AND
+"Remember: if A is 0 or B is 0, output is 0",AND
+"If A is 0 or B is 0, output is 0.",AND
+"If A is 0 or B is 0, output is 0 in binary.",AND
+"If A is 0 or B is 0, output is 0 for the output.",AND
+"If A is 0 or B is 0, output is 0 according to the truth table.",AND
+The output is the logical conjunction of A and B,AND
+"In this logic gate, the output is the logical conjunction of A and B",AND
+"For the circuit, the output is the logical conjunction of A and B",AND
+Remember: the output is the logical conjunction of A and B,AND
+The output is the logical conjunction of A and B.,AND
+The output is the logical conjunction of A and B in binary.,AND
+The output is the logical conjunction of A and B for the output.,AND
+The output is the logical conjunction of A and B according to the truth table.,AND
+Both conditions must be true for a high output,AND
+"In this logic gate, both conditions must be true for a high output",AND
+"For the circuit, both conditions must be true for a high output",AND
+Remember: both conditions must be true for a high output,AND
+Both conditions must be true for a high output.,AND
+Both conditions must be true for a high output in binary.,AND
+Both conditions must be true for a high output for the output.,AND
+Both conditions must be true for a high output according to the truth table.,AND
+"Output is low for 00, 01, and 10, and high for 11",AND
+"In this logic gate, output is low for 00, 01, and 10, and high for 11",AND
+"For the circuit, output is low for 00, 01, and 10, and high for 11",AND
+"Remember: output is low for 00, 01, and 10, and high for 11",AND
+"Output is low for 00, 01, and 10, and high for 11.",AND
+"Output is low for 00, 01, and 10, and high for 11 in binary.",AND
+"Output is low for 00, 01, and 10, and high for 11 for the output.",AND
+"Output is low for 00, 01, and 10, and high for 11 according to the truth table.",AND
+Output is high when at least one input is high,OR
+"In this logic gate, output is high when at least one input is high",OR
+"For the circuit, output is high when at least one input is high",OR
+Remember: output is high when at least one input is high,OR
+Output is high when at least one input is high.,OR
+Output is high when at least one input is high in binary.,OR
+Output is high when at least one input is high for the output.,OR
+Output is high when at least one input is high according to the truth table.,OR
+Output is 1 if A or B or both are 1,OR
+"In this logic gate, output is 1 if A or B or both are 1",OR
+"For the circuit, output is 1 if A or B or both are 1",OR
+Remember: output is 1 if A or B or both are 1,OR
+Output is 1 if A or B or both are 1.,OR
+Output is 1 if A or B or both are 1 in binary.,OR
+Output is 1 if A or B or both are 1 for the output.,OR
+Output is 1 if A or B or both are 1 according to the truth table.,OR
+The output is low only when both inputs are low,OR
+"In this logic gate, the output is low only when both inputs are low",OR
+"For the circuit, the output is low only when both inputs are low",OR
+Remember: the output is low only when both inputs are low,OR
+The output is low only when both inputs are low.,OR
+The output is low only when both inputs are low in binary.,OR
+The output is low only when both inputs are low for the output.,OR
+The output is low only when both inputs are low according to the truth table.,OR
+Either input can make the output high,OR
+"In this logic gate, either input can make the output high",OR
+"For the circuit, either input can make the output high",OR
+Remember: either input can make the output high,OR
+Either input can make the output high.,OR
+Either input can make the output high in binary.,OR
+Either input can make the output high for the output.,OR
+Either input can make the output high according to the truth table.,OR
+Only 00 produces output 0,OR
+"In this logic gate, only 00 produces output 0",OR
+"For the circuit, only 00 produces output 0",OR
+Remember: only 00 produces output 0,OR
+Only 00 produces output 0.,OR
+Only 00 produces output 0 in binary.,OR
+Only 00 produces output 0 for the output.,OR
+Only 00 produces output 0 according to the truth table.,OR
+The output is true when one or more inputs are true,OR
+"In this logic gate, the output is true when one or more inputs are true",OR
+"For the circuit, the output is true when one or more inputs are true",OR
+Remember: the output is true when one or more inputs are true,OR
+The output is true when one or more inputs are true.,OR
+The output is true when one or more inputs are true in binary.,OR
+The output is true when one or more inputs are true for the output.,OR
+The output is true when one or more inputs are true according to the truth table.,OR
+"If A is 1 or B is 1, output is 1",OR
+"In this logic gate, if A is 1 or B is 1, output is 1",OR
+"For the circuit, if A is 1 or B is 1, output is 1",OR
+"Remember: if A is 1 or B is 1, output is 1",OR
+"If A is 1 or B is 1, output is 1.",OR
+"If A is 1 or B is 1, output is 1 in binary.",OR
+"If A is 1 or B is 1, output is 1 for the output.",OR
+"If A is 1 or B is 1, output is 1 according to the truth table.",OR
+The output is the logical disjunction of A and B,OR
+"In this logic gate, the output is the logical disjunction of A and B",OR
+"For the circuit, the output is the logical disjunction of A and B",OR
+Remember: the output is the logical disjunction of A and B,OR
+The output is the logical disjunction of A and B.,OR
+The output is the logical disjunction of A and B in binary.,OR
+The output is the logical disjunction of A and B for the output.,OR
+The output is the logical disjunction of A and B according to the truth table.,OR
+"Output is high for 01, 10, and 11",OR
+"In this logic gate, output is high for 01, 10, and 11",OR
+"For the circuit, output is high for 01, 10, and 11",OR
+"Remember: output is high for 01, 10, and 11",OR
+"Output is high for 01, 10, and 11.",OR
+"Output is high for 01, 10, and 11 in binary.",OR
+"Output is high for 01, 10, and 11 for the output.",OR
+"Output is high for 01, 10, and 11 according to the truth table.",OR
+At least one input must be 1 for output 1,OR
+"In this logic gate, at least one input must be 1 for output 1",OR
+"For the circuit, at least one input must be 1 for output 1",OR
+Remember: at least one input must be 1 for output 1,OR
+At least one input must be 1 for output 1.,OR
+At least one input must be 1 for output 1 in binary.,OR
+At least one input must be 1 for output 1 for the output.,OR
+At least one input must be 1 for output 1 according to the truth table.,OR
+The output becomes high if any input is high,OR
+"In this logic gate, the output becomes high if any input is high",OR
+"For the circuit, the output becomes high if any input is high",OR
+Remember: the output becomes high if any input is high,OR
+The output becomes high if any input is high.,OR
+The output becomes high if any input is high in binary.,OR
+The output becomes high if any input is high for the output.,OR
+The output becomes high if any input is high according to the truth table.,OR
+Both inputs must be 0 to make output low,OR
+"In this logic gate, both inputs must be 0 to make output low",OR
+"For the circuit, both inputs must be 0 to make output low",OR
+Remember: both inputs must be 0 to make output low,OR
+Both inputs must be 0 to make output low.,OR
+Both inputs must be 0 to make output low in binary.,OR
+Both inputs must be 0 to make output low for the output.,OR
+Both inputs must be 0 to make output low according to the truth table.,OR
+Output is the opposite of the input,NOT
+"In this logic gate, output is the opposite of the input",NOT
+"For the circuit, output is the opposite of the input",NOT
+Remember: output is the opposite of the input,NOT
+Output is the opposite of the input.,NOT
+Output is the opposite of the input in binary.,NOT
+Output is the opposite of the input for the output.,NOT
+Output is the opposite of the input according to the truth table.,NOT
+The output is the inverse of A,NOT
+"In this logic gate, the output is the inverse of A",NOT
+"For the circuit, the output is the inverse of A",NOT
+Remember: the output is the inverse of A,NOT
+The output is the inverse of A.,NOT
+The output is the inverse of A in binary.,NOT
+The output is the inverse of A for the output.,NOT
+The output is the inverse of A according to the truth table.,NOT
+If input is 1 output is 0 and vice versa,NOT
+"In this logic gate, if input is 1 output is 0 and vice versa",NOT
+"For the circuit, if input is 1 output is 0 and vice versa",NOT
+Remember: if input is 1 output is 0 and vice versa,NOT
+If input is 1 output is 0 and vice versa.,NOT
+If input is 1 output is 0 and vice versa in binary.,NOT
+If input is 1 output is 0 and vice versa for the output.,NOT
+If input is 1 output is 0 and vice versa according to the truth table.,NOT
+Output is always the complement of the input,NOT
+"In this logic gate, output is always the complement of the input",NOT
+"For the circuit, output is always the complement of the input",NOT
+Remember: output is always the complement of the input,NOT
+Output is always the complement of the input.,NOT
+Output is always the complement of the input in binary.,NOT
+Output is always the complement of the input for the output.,NOT
+Output is always the complement of the input according to the truth table.,NOT
+Reverse the input signal,NOT
+"In this logic gate, reverse the input signal",NOT
+"For the circuit, reverse the input signal",NOT
+Remember: reverse the input signal,NOT
+Reverse the input signal.,NOT
+Reverse the input signal in binary.,NOT
+Reverse the input signal for the output.,NOT
+Reverse the input signal according to the truth table.,NOT
+A high input produces a low output,NOT
+"In this logic gate, a high input produces a low output",NOT
+"For the circuit, a high input produces a low output",NOT
+Remember: a high input produces a low output,NOT
+A high input produces a low output.,NOT
+A high input produces a low output in binary.,NOT
+A high input produces a low output for the output.,NOT
+A high input produces a low output according to the truth table.,NOT
+A low input produces a high output,NOT
+"In this logic gate, a low input produces a high output",NOT
+"For the circuit, a low input produces a high output",NOT
+Remember: a low input produces a high output,NOT
+A low input produces a high output.,NOT
+A low input produces a high output in binary.,NOT
+A low input produces a high output for the output.,NOT
+A low input produces a high output according to the truth table.,NOT
+The output is logical negation of A,NOT
+"In this logic gate, the output is logical negation of A",NOT
+"For the circuit, the output is logical negation of A",NOT
+Remember: the output is logical negation of A,NOT
+The output is logical negation of A.,NOT
+The output is logical negation of A in binary.,NOT
+The output is logical negation of A for the output.,NOT
+The output is logical negation of A according to the truth table.,NOT
+Input 0 gives output 1 and input 1 gives output 0,NOT
+"In this logic gate, input 0 gives output 1 and input 1 gives output 0",NOT
+"For the circuit, input 0 gives output 1 and input 1 gives output 0",NOT
+Remember: input 0 gives output 1 and input 1 gives output 0,NOT
+Input 0 gives output 1 and input 1 gives output 0.,NOT
+Input 0 gives output 1 and input 1 gives output 0 in binary.,NOT
+Input 0 gives output 1 and input 1 gives output 0 for the output.,NOT
+Input 0 gives output 1 and input 1 gives output 0 according to the truth table.,NOT
+The output is NOT A,NOT
+"In this logic gate, the output is NOT A",NOT
+"For the circuit, the output is NOT A",NOT
+Remember: the output is NOT A,NOT
+The output is NOT A.,NOT
+The output is NOT A in binary.,NOT
+The output is NOT A for the output.,NOT
+The output is NOT A according to the truth table.,NOT
+Invert the single input,NOT
+"In this logic gate, invert the single input",NOT
+"For the circuit, invert the single input",NOT
+Remember: invert the single input,NOT
+Invert the single input.,NOT
+Invert the single input in binary.,NOT
+Invert the single input for the output.,NOT
+Invert the single input according to the truth table.,NOT
+The output changes to the opposite binary value,NOT
+"In this logic gate, the output changes to the opposite binary value",NOT
+"For the circuit, the output changes to the opposite binary value",NOT
+Remember: the output changes to the opposite binary value,NOT
+The output changes to the opposite binary value.,NOT
+The output changes to the opposite binary value in binary.,NOT
+The output changes to the opposite binary value for the output.,NOT
+The output changes to the opposite binary value according to the truth table.,NOT
+Output is low only when both inputs are high,NAND
+"In this logic gate, output is low only when both inputs are high",NAND
+"For the circuit, output is low only when both inputs are high",NAND
+Remember: output is low only when both inputs are high,NAND
+Output is low only when both inputs are high.,NAND
+Output is low only when both inputs are high in binary.,NAND
+Output is low only when both inputs are high for the output.,NAND
+Output is low only when both inputs are high according to the truth table.,NAND
+Output is the opposite of AND,NAND
+"In this logic gate, output is the opposite of AND",NAND
+"For the circuit, output is the opposite of AND",NAND
+Remember: output is the opposite of AND,NAND
+Output is the opposite of AND.,NAND
+Output is the opposite of AND in binary.,NAND
+Output is the opposite of AND for the output.,NAND
+Output is the opposite of AND according to the truth table.,NAND
+Output is 0 only when A and B are both 1,NAND
+"In this logic gate, output is 0 only when A and B are both 1",NAND
+"For the circuit, output is 0 only when A and B are both 1",NAND
+Remember: output is 0 only when A and B are both 1,NAND
+Output is 0 only when A and B are both 1.,NAND
+Output is 0 only when A and B are both 1 in binary.,NAND
+Output is 0 only when A and B are both 1 for the output.,NAND
+Output is 0 only when A and B are both 1 according to the truth table.,NAND
+Output is high for every input combination except 11,NAND
+"In this logic gate, output is high for every input combination except 11",NAND
+"For the circuit, output is high for every input combination except 11",NAND
+Remember: output is high for every input combination except 11,NAND
+Output is high for every input combination except 11.,NAND
+Output is high for every input combination except 11 in binary.,NAND
+Output is high for every input combination except 11 for the output.,NAND
+Output is high for every input combination except 11 according to the truth table.,NAND
+The output is the complement of A AND B,NAND
+"In this logic gate, the output is the complement of A AND B",NAND
+"For the circuit, the output is the complement of A AND B",NAND
+Remember: the output is the complement of A AND B,NAND
+The output is the complement of A AND B.,NAND
+The output is the complement of A AND B in binary.,NAND
+The output is the complement of A AND B for the output.,NAND
+The output is the complement of A AND B according to the truth table.,NAND
+Both inputs high make the output low,NAND
+"In this logic gate, both inputs high make the output low",NAND
+"For the circuit, both inputs high make the output low",NAND
+Remember: both inputs high make the output low,NAND
+Both inputs high make the output low.,NAND
+Both inputs high make the output low in binary.,NAND
+Both inputs high make the output low for the output.,NAND
+Both inputs high make the output low according to the truth table.,NAND
+"Output is 1 for 00, 01, and 10, but 0 for 11",NAND
+"In this logic gate, output is 1 for 00, 01, and 10, but 0 for 11",NAND
+"For the circuit, output is 1 for 00, 01, and 10, but 0 for 11",NAND
+"Remember: output is 1 for 00, 01, and 10, but 0 for 11",NAND
+"Output is 1 for 00, 01, and 10, but 0 for 11.",NAND
+"Output is 1 for 00, 01, and 10, but 0 for 11 in binary.",NAND
+"Output is 1 for 00, 01, and 10, but 0 for 11 for the output.",NAND
+"Output is 1 for 00, 01, and 10, but 0 for 11 according to the truth table.",NAND
+The output is NOT (A AND B),NAND
+"In this logic gate, the output is NOT (A AND B)",NAND
+"For the circuit, the output is NOT (A AND B)",NAND
+Remember: the output is NOT (A AND B),NAND
+The output is NOT (A AND B).,NAND
+The output is NOT (A AND B) in binary.,NAND
+The output is NOT (A AND B) for the output.,NAND
+The output is NOT (A AND B) according to the truth table.,NAND
+"If either input is 0, output is 1",NAND
+"In this logic gate, if either input is 0, output is 1",NAND
+"For the circuit, if either input is 0, output is 1",NAND
+"Remember: if either input is 0, output is 1",NAND
+"If either input is 0, output is 1.",NAND
+"If either input is 0, output is 1 in binary.",NAND
+"If either input is 0, output is 1 for the output.",NAND
+"If either input is 0, output is 1 according to the truth table.",NAND
+NAND gives a low output only for two high inputs,NAND
+"In this logic gate, nAND gives a low output only for two high inputs",NAND
+"For the circuit, nAND gives a low output only for two high inputs",NAND
+Remember: nAND gives a low output only for two high inputs,NAND
+NAND gives a low output only for two high inputs.,NAND
+NAND gives a low output only for two high inputs in binary.,NAND
+NAND gives a low output only for two high inputs for the output.,NAND
+NAND gives a low output only for two high inputs according to the truth table.,NAND
+The inverse of the AND gate output,NAND
+"In this logic gate, the inverse of the AND gate output",NAND
+"For the circuit, the inverse of the AND gate output",NAND
+Remember: the inverse of the AND gate output,NAND
+The inverse of the AND gate output.,NAND
+The inverse of the AND gate output in binary.,NAND
+The inverse of the AND gate output for the output.,NAND
+The inverse of the AND gate output according to the truth table.,NAND
+Output becomes 0 when all inputs are 1,NAND
+"In this logic gate, output becomes 0 when all inputs are 1",NAND
+"For the circuit, output becomes 0 when all inputs are 1",NAND
+Remember: output becomes 0 when all inputs are 1,NAND
+Output becomes 0 when all inputs are 1.,NAND
+Output becomes 0 when all inputs are 1 in binary.,NAND
+Output becomes 0 when all inputs are 1 for the output.,NAND
+Output becomes 0 when all inputs are 1 according to the truth table.,NAND
+Output is high only when both inputs are low,NOR
+"In this logic gate, output is high only when both inputs are low",NOR
+"For the circuit, output is high only when both inputs are low",NOR
+Remember: output is high only when both inputs are low,NOR
+Output is high only when both inputs are low.,NOR
+Output is high only when both inputs are low in binary.,NOR
+Output is high only when both inputs are low for the output.,NOR
+Output is high only when both inputs are low according to the truth table.,NOR
+Output is the opposite of OR,NOR
+"In this logic gate, output is the opposite of OR",NOR
+"For the circuit, output is the opposite of OR",NOR
+Remember: output is the opposite of OR,NOR
+Output is the opposite of OR.,NOR
+Output is the opposite of OR in binary.,NOR
+Output is the opposite of OR for the output.,NOR
+Output is the opposite of OR according to the truth table.,NOR
+Output is 1 only when A and B are both 0,NOR
+"In this logic gate, output is 1 only when A and B are both 0",NOR
+"For the circuit, output is 1 only when A and B are both 0",NOR
+Remember: output is 1 only when A and B are both 0,NOR
+Output is 1 only when A and B are both 0.,NOR
+Output is 1 only when A and B are both 0 in binary.,NOR
+Output is 1 only when A and B are both 0 for the output.,NOR
+Output is 1 only when A and B are both 0 according to the truth table.,NOR
+Output is low if any input is high,NOR
+"In this logic gate, output is low if any input is high",NOR
+"For the circuit, output is low if any input is high",NOR
+Remember: output is low if any input is high,NOR
+Output is low if any input is high.,NOR
+Output is low if any input is high in binary.,NOR
+Output is low if any input is high for the output.,NOR
+Output is low if any input is high according to the truth table.,NOR
+The output is the complement of A OR B,NOR
+"In this logic gate, the output is the complement of A OR B",NOR
+"For the circuit, the output is the complement of A OR B",NOR
+Remember: the output is the complement of A OR B,NOR
+The output is the complement of A OR B.,NOR
+The output is the complement of A OR B in binary.,NOR
+The output is the complement of A OR B for the output.,NOR
+The output is the complement of A OR B according to the truth table.,NOR
+Both inputs low make the output high,NOR
+"In this logic gate, both inputs low make the output high",NOR
+"For the circuit, both inputs low make the output high",NOR
+Remember: both inputs low make the output high,NOR
+Both inputs low make the output high.,NOR
+Both inputs low make the output high in binary.,NOR
+Both inputs low make the output high for the output.,NOR
+Both inputs low make the output high according to the truth table.,NOR
+"Output is 1 for 00 and 0 for 01, 10, and 11",NOR
+"In this logic gate, output is 1 for 00 and 0 for 01, 10, and 11",NOR
+"For the circuit, output is 1 for 00 and 0 for 01, 10, and 11",NOR
+"Remember: output is 1 for 00 and 0 for 01, 10, and 11",NOR
+"Output is 1 for 00 and 0 for 01, 10, and 11.",NOR
+"Output is 1 for 00 and 0 for 01, 10, and 11 in binary.",NOR
+"Output is 1 for 00 and 0 for 01, 10, and 11 for the output.",NOR
+"Output is 1 for 00 and 0 for 01, 10, and 11 according to the truth table.",NOR
+The output is NOT (A OR B),NOR
+"In this logic gate, the output is NOT (A OR B)",NOR
+"For the circuit, the output is NOT (A OR B)",NOR
+Remember: the output is NOT (A OR B),NOR
+The output is NOT (A OR B).,NOR
+The output is NOT (A OR B) in binary.,NOR
+The output is NOT (A OR B) for the output.,NOR
+The output is NOT (A OR B) according to the truth table.,NOR
+"If either input is 1, output is 0",NOR
+"In this logic gate, if either input is 1, output is 0",NOR
+"For the circuit, if either input is 1, output is 0",NOR
+"Remember: if either input is 1, output is 0",NOR
+"If either input is 1, output is 0.",NOR
+"If either input is 1, output is 0 in binary.",NOR
+"If either input is 1, output is 0 for the output.",NOR
+"If either input is 1, output is 0 according to the truth table.",NOR
+NOR gives a high output only for two low inputs,NOR
+"In this logic gate, nOR gives a high output only for two low inputs",NOR
+"For the circuit, nOR gives a high output only for two low inputs",NOR
+Remember: nOR gives a high output only for two low inputs,NOR
+NOR gives a high output only for two low inputs.,NOR
+NOR gives a high output only for two low inputs in binary.,NOR
+NOR gives a high output only for two low inputs for the output.,NOR
+NOR gives a high output only for two low inputs according to the truth table.,NOR
+The inverse of the OR gate output,NOR
+"In this logic gate, the inverse of the OR gate output",NOR
+"For the circuit, the inverse of the OR gate output",NOR
+Remember: the inverse of the OR gate output,NOR
+The inverse of the OR gate output.,NOR
+The inverse of the OR gate output in binary.,NOR
+The inverse of the OR gate output for the output.,NOR
+The inverse of the OR gate output according to the truth table.,NOR
+Output becomes 0 when at least one input is high,NOR
+"In this logic gate, output becomes 0 when at least one input is high",NOR
+"For the circuit, output becomes 0 when at least one input is high",NOR
+Remember: output becomes 0 when at least one input is high,NOR
+Output becomes 0 when at least one input is high.,NOR
+Output becomes 0 when at least one input is high in binary.,NOR
+Output becomes 0 when at least one input is high for the output.,NOR
+Output becomes 0 when at least one input is high according to the truth table.,NOR
+Output is high when the inputs are different,XOR
+"In this logic gate, output is high when the inputs are different",XOR
+"For the circuit, output is high when the inputs are different",XOR
+Remember: output is high when the inputs are different,XOR
+Output is high when the inputs are different.,XOR
+Output is high when the inputs are different in binary.,XOR
+Output is high when the inputs are different for the output.,XOR
+Output is high when the inputs are different according to the truth table.,XOR
+Output is 1 when exactly one input is high,XOR
+"In this logic gate, output is 1 when exactly one input is high",XOR
+"For the circuit, output is 1 when exactly one input is high",XOR
+Remember: output is 1 when exactly one input is high,XOR
+Output is 1 when exactly one input is high.,XOR
+Output is 1 when exactly one input is high in binary.,XOR
+Output is 1 when exactly one input is high for the output.,XOR
+Output is 1 when exactly one input is high according to the truth table.,XOR
+Output is low when both inputs are the same,XOR
+"In this logic gate, output is low when both inputs are the same",XOR
+"For the circuit, output is low when both inputs are the same",XOR
+Remember: output is low when both inputs are the same,XOR
+Output is low when both inputs are the same.,XOR
+Output is low when both inputs are the same in binary.,XOR
+Output is low when both inputs are the same for the output.,XOR
+Output is low when both inputs are the same according to the truth table.,XOR
+A and B must have different values for output 1,XOR
+"In this logic gate, a and B must have different values for output 1",XOR
+"For the circuit, a and B must have different values for output 1",XOR
+Remember: a and B must have different values for output 1,XOR
+A and B must have different values for output 1.,XOR
+A and B must have different values for output 1 in binary.,XOR
+A and B must have different values for output 1 for the output.,XOR
+A and B must have different values for output 1 according to the truth table.,XOR
+Output is 1 for 01 and 10,XOR
+"In this logic gate, output is 1 for 01 and 10",XOR
+"For the circuit, output is 1 for 01 and 10",XOR
+Remember: output is 1 for 01 and 10,XOR
+Output is 1 for 01 and 10.,XOR
+Output is 1 for 01 and 10 in binary.,XOR
+Output is 1 for 01 and 10 for the output.,XOR
+Output is 1 for 01 and 10 according to the truth table.,XOR
+The output indicates unequal inputs,XOR
+"In this logic gate, the output indicates unequal inputs",XOR
+"For the circuit, the output indicates unequal inputs",XOR
+Remember: the output indicates unequal inputs,XOR
+The output indicates unequal inputs.,XOR
+The output indicates unequal inputs in binary.,XOR
+The output indicates unequal inputs for the output.,XOR
+The output indicates unequal inputs according to the truth table.,XOR
+Inputs 0 and 1 produce output 1,XOR
+"In this logic gate, inputs 0 and 1 produce output 1",XOR
+"For the circuit, inputs 0 and 1 produce output 1",XOR
+Remember: inputs 0 and 1 produce output 1,XOR
+Inputs 0 and 1 produce output 1.,XOR
+Inputs 0 and 1 produce output 1 in binary.,XOR
+Inputs 0 and 1 produce output 1 for the output.,XOR
+Inputs 0 and 1 produce output 1 according to the truth table.,XOR
+Inputs 1 and 0 produce output 1,XOR
+"In this logic gate, inputs 1 and 0 produce output 1",XOR
+"For the circuit, inputs 1 and 0 produce output 1",XOR
+Remember: inputs 1 and 0 produce output 1,XOR
+Inputs 1 and 0 produce output 1.,XOR
+Inputs 1 and 0 produce output 1 in binary.,XOR
+Inputs 1 and 0 produce output 1 for the output.,XOR
+Inputs 1 and 0 produce output 1 according to the truth table.,XOR
+Inputs 0 and 0 produce output 0,XOR
+"In this logic gate, inputs 0 and 0 produce output 0",XOR
+"For the circuit, inputs 0 and 0 produce output 0",XOR
+Remember: inputs 0 and 0 produce output 0,XOR
+Inputs 0 and 0 produce output 0.,XOR
+Inputs 0 and 0 produce output 0 in binary.,XOR
+Inputs 0 and 0 produce output 0 for the output.,XOR
+Inputs 0 and 0 produce output 0 according to the truth table.,XOR
+Inputs 1 and 1 produce output 0,XOR
+"In this logic gate, inputs 1 and 1 produce output 0",XOR
+"For the circuit, inputs 1 and 1 produce output 0",XOR
+Remember: inputs 1 and 1 produce output 0,XOR
+Inputs 1 and 1 produce output 0.,XOR
+Inputs 1 and 1 produce output 0 in binary.,XOR
+Inputs 1 and 1 produce output 0 for the output.,XOR
+Inputs 1 and 1 produce output 0 according to the truth table.,XOR
+XOR is true when A differs from B,XOR
+"In this logic gate, xOR is true when A differs from B",XOR
+"For the circuit, xOR is true when A differs from B",XOR
+Remember: xOR is true when A differs from B,XOR
+XOR is true when A differs from B.,XOR
+XOR is true when A differs from B in binary.,XOR
+XOR is true when A differs from B for the output.,XOR
+XOR is true when A differs from B according to the truth table.,XOR
+Exactly one input must be 1,XOR
+"In this logic gate, exactly one input must be 1",XOR
+"For the circuit, exactly one input must be 1",XOR
+Remember: exactly one input must be 1,XOR
+Exactly one input must be 1.,XOR
+Exactly one input must be 1 in binary.,XOR
+Exactly one input must be 1 for the output.,XOR
+Exactly one input must be 1 according to the truth table.,XOR
+The output is the exclusive OR of A and B,XOR
+"In this logic gate, the output is the exclusive OR of A and B",XOR
+"For the circuit, the output is the exclusive OR of A and B",XOR
+Remember: the output is the exclusive OR of A and B,XOR
+The output is the exclusive OR of A and B.,XOR
+The output is the exclusive OR of A and B in binary.,XOR
+The output is the exclusive OR of A and B for the output.,XOR
+The output is the exclusive OR of A and B according to the truth table.,XOR
+Different binary inputs give a high output,XOR
+"In this logic gate, different binary inputs give a high output",XOR
+"For the circuit, different binary inputs give a high output",XOR
+Remember: different binary inputs give a high output,XOR
+Different binary inputs give a high output.,XOR
+Different binary inputs give a high output in binary.,XOR
+Different binary inputs give a high output for the output.,XOR
+Different binary inputs give a high output according to the truth table.,XOR
+Output is high when both inputs are the same,XNOR
+"In this logic gate, output is high when both inputs are the same",XNOR
+"For the circuit, output is high when both inputs are the same",XNOR
+Remember: output is high when both inputs are the same,XNOR
+Output is high when both inputs are the same.,XNOR
+Output is high when both inputs are the same in binary.,XNOR
+Output is high when both inputs are the same for the output.,XNOR
+Output is high when both inputs are the same according to the truth table.,XNOR
+Output is 1 when the inputs are equal,XNOR
+"In this logic gate, output is 1 when the inputs are equal",XNOR
+"For the circuit, output is 1 when the inputs are equal",XNOR
+Remember: output is 1 when the inputs are equal,XNOR
+Output is 1 when the inputs are equal.,XNOR
+Output is 1 when the inputs are equal in binary.,XNOR
+Output is 1 when the inputs are equal for the output.,XNOR
+Output is 1 when the inputs are equal according to the truth table.,XNOR
+Output is low when the inputs are different,XNOR
+"In this logic gate, output is low when the inputs are different",XNOR
+"For the circuit, output is low when the inputs are different",XNOR
+Remember: output is low when the inputs are different,XNOR
+Output is low when the inputs are different.,XNOR
+Output is low when the inputs are different in binary.,XNOR
+Output is low when the inputs are different for the output.,XNOR
+Output is low when the inputs are different according to the truth table.,XNOR
+A and B must match for output 1,XNOR
+"In this logic gate, a and B must match for output 1",XNOR
+"For the circuit, a and B must match for output 1",XNOR
+Remember: a and B must match for output 1,XNOR
+A and B must match for output 1.,XNOR
+A and B must match for output 1 in binary.,XNOR
+A and B must match for output 1 for the output.,XNOR
+A and B must match for output 1 according to the truth table.,XNOR
+Output is 1 for 00 and 11,XNOR
+"In this logic gate, output is 1 for 00 and 11",XNOR
+"For the circuit, output is 1 for 00 and 11",XNOR
+Remember: output is 1 for 00 and 11,XNOR
+Output is 1 for 00 and 11.,XNOR
+Output is 1 for 00 and 11 in binary.,XNOR
+Output is 1 for 00 and 11 for the output.,XNOR
+Output is 1 for 00 and 11 according to the truth table.,XNOR
+The output indicates equal inputs,XNOR
+"In this logic gate, the output indicates equal inputs",XNOR
+"For the circuit, the output indicates equal inputs",XNOR
+Remember: the output indicates equal inputs,XNOR
+The output indicates equal inputs.,XNOR
+The output indicates equal inputs in binary.,XNOR
+The output indicates equal inputs for the output.,XNOR
+The output indicates equal inputs according to the truth table.,XNOR
+Inputs 0 and 0 produce output 1,XNOR
+"In this logic gate, inputs 0 and 0 produce output 1",XNOR
+"For the circuit, inputs 0 and 0 produce output 1",XNOR
+Remember: inputs 0 and 0 produce output 1,XNOR
+Inputs 0 and 0 produce output 1.,XNOR
+Inputs 0 and 0 produce output 1 in binary.,XNOR
+Inputs 0 and 0 produce output 1 for the output.,XNOR
+Inputs 0 and 0 produce output 1 according to the truth table.,XNOR
+Inputs 1 and 1 produce output 1,XNOR
+"In this logic gate, inputs 1 and 1 produce output 1",XNOR
+"For the circuit, inputs 1 and 1 produce output 1",XNOR
+Remember: inputs 1 and 1 produce output 1,XNOR
+Inputs 1 and 1 produce output 1.,XNOR
+Inputs 1 and 1 produce output 1 in binary.,XNOR
+Inputs 1 and 1 produce output 1 for the output.,XNOR
+Inputs 1 and 1 produce output 1 according to the truth table.,XNOR
+Inputs 0 and 1 produce output 0,XNOR
+"In this logic gate, inputs 0 and 1 produce output 0",XNOR
+"For the circuit, inputs 0 and 1 produce output 0",XNOR
+Remember: inputs 0 and 1 produce output 0,XNOR
+Inputs 0 and 1 produce output 0.,XNOR
+Inputs 0 and 1 produce output 0 in binary.,XNOR
+Inputs 0 and 1 produce output 0 for the output.,XNOR
+Inputs 0 and 1 produce output 0 according to the truth table.,XNOR
+Inputs 1 and 0 produce output 0,XNOR
+"In this logic gate, inputs 1 and 0 produce output 0",XNOR
+"For the circuit, inputs 1 and 0 produce output 0",XNOR
+Remember: inputs 1 and 0 produce output 0,XNOR
+Inputs 1 and 0 produce output 0.,XNOR
+Inputs 1 and 0 produce output 0 in binary.,XNOR
+Inputs 1 and 0 produce output 0 for the output.,XNOR
+Inputs 1 and 0 produce output 0 according to the truth table.,XNOR
+XNOR is true when A equals B,XNOR
+"In this logic gate, xNOR is true when A equals B",XNOR
+"For the circuit, xNOR is true when A equals B",XNOR
+Remember: xNOR is true when A equals B,XNOR
+XNOR is true when A equals B.,XNOR
+XNOR is true when A equals B in binary.,XNOR
+XNOR is true when A equals B for the output.,XNOR
+XNOR is true when A equals B according to the truth table.,XNOR
+Both inputs must match,XNOR
+"In this logic gate, both inputs must match",XNOR
+"For the circuit, both inputs must match",XNOR
+Remember: both inputs must match,XNOR
+Both inputs must match.,XNOR
+Both inputs must match in binary.,XNOR
+Both inputs must match for the output.,XNOR
+Both inputs must match according to the truth table.,XNOR
+The output is the exclusive NOR of A and B,XNOR
+"In this logic gate, the output is the exclusive NOR of A and B",XNOR
+"For the circuit, the output is the exclusive NOR of A and B",XNOR
+Remember: the output is the exclusive NOR of A and B,XNOR
+The output is the exclusive NOR of A and B.,XNOR
+The output is the exclusive NOR of A and B in binary.,XNOR
+The output is the exclusive NOR of A and B for the output.,XNOR
+The output is the exclusive NOR of A and B according to the truth table.,XNOR
+Equal binary inputs give a high output,XNOR
+"In this logic gate, equal binary inputs give a high output",XNOR
+"For the circuit, equal binary inputs give a high output",XNOR
+Remember: equal binary inputs give a high output,XNOR
+Equal binary inputs give a high output.,XNOR
+Equal binary inputs give a high output in binary.,XNOR
+Equal binary inputs give a high output for the output.,XNOR
+Equal binary inputs give a high output according to the truth table.,XNOR
+Output is high when inputs are the same,XNOR
+Output is 1 when both inputs are equal,XNOR
+Equal inputs produce a high output,XNOR
+Output is high when A equals B,XNOR
+Output is low when inputs are the same,XOR
+Output is high when inputs are different,XOR
+Unequal inputs produce a high output,XOR
+Output is 1 when A is different from B,XOR
